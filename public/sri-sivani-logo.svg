@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+  <!-- Dark background -->
+  <rect width="1024" height="500" fill="#212121" />
+  
+  <g fill="none" fill-rule="evenodd">
+    <!-- Blue circular arc -->
+    <path d="M110,200 a200,200 0 0 1 400,0" stroke="#3150A4" stroke-width="40" fill="none" />
+    
+    <!-- House shape in orange -->
+    <path d="M160,200 L310,90 L460,200" stroke="#FFA726" stroke-width="28" fill="none" stroke-linejoin="round" />
+    <path d="M200,200 L200,250 L420,250" stroke="#FFA726" stroke-width="28" fill="none" />
+    
+    <!-- Windows -->
+    <rect x="225" y="150" width="24" height="24" fill="#FFA726" />
+    <path d="M225,150 v12 h12 v-12 z M237,162 v12 h12 v-12 z" fill="#212121" />
+    
+    <rect x="330" y="150" width="24" height="24" fill="#FFA726" />
+    <path d="M330,150 v12 h12 v-12 z M342,162 v12 h12 v-12 z" fill="#212121" />
+    
+    <!-- Key shape -->
+    <path d="M510,200 L950,200 L900,150 L850,200 L800,150 L750,200 L700,150 L650,200 L600,150 L550,200" fill="#3150A4" />
+    
+    <!-- Text -->
+    <text x="110" y="370" font-family="Arial, sans-serif" font-weight="bold" font-size="85" fill="#FFA726">SRI SIVANI SERVICES</text>
+  </g>
+</svg>
